@@ -1,6 +1,6 @@
 # 📚 SEU-CSE1102-GS0105
 
-> Course Code: **CSE1102.1** | Group Section: **S0105**
+> Course Code: **CSE1102.1** | Group No: **S0105** | Presentation Topic: **Data & Security**
 
 ---
 
