@@ -12,20 +12,20 @@ This repository contains presentation materials, reports and resources for **SEU
 
 
 ### Instructors
-| Name | Role | Contact |
-|------|------|---------|
-|Tashreef Muhammad|Course Instructor|[E-mail](tashreef.muhammad@seu.edu.bd)|
+| Name | Role |
+|------|------|
+| Tashreef Muhammad | Course Instructor |
 
 ---
 
 ## 👥 Team Members
 
 ### Students (Group S0105)
-| # | Name | GitHub | Contact |
-|---|------|--------|--------|
-| 1 | MD. MAHFUZ SARKER MAHI|[Mahfuz](https://github.com/MD-MahfuzSarker)|[E-mail](mahfuzsarkermahi@gmail.com)|
-| 2 | FARZANA AHMED | [Farzana](https://github.com/farzanaahmedlabonno2-eng) |[E-mail](farzanaahmedlabonno2@gmail.com)|
-| 3 | TASPRIA CHOWDHURY ANISHA | [Anisha](https://github.com/anishachy) | [E-mail](anishachowdhury2408@gmail.com)|
+| # | Name | GitHub |
+|---|------|--------|
+| 1 | MD. MAHFUZ SARKER MAHI | [Mahfuz](https://github.com/MD-MahfuzSarker) |
+| 2 | FARZANA AHMED | [Farzana](https://github.com/farzanaahmedlabonno2-eng) |
+| 3 | TASPRIA CHOWDHURY ANISHA | [Anisha](https://github.com/anishachy) |
 
 
 ---
