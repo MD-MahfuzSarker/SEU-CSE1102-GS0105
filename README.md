@@ -4,5 +4,7 @@ Presentation topic: ## Data and Security
 
 
 Team member 
-![Mahfuz](https://github.com/MD-MahfuzSarker&show_icons=true)
+![Mahfuz](https://github.com/MD-MahfuzSarker)
+![Farzana](https://github.com/farzanaahmedlabonno2-eng)
+![Anisha](https://github.com/anishachy)
 
