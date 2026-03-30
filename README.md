@@ -1,10 +1,12 @@
-# <p align="center"># SEU-CSE1102-GS0105 </p>
+## <p align="center"> SEU-CSE1102-GS0105 </p> 
 
-Presentation topic: ## Data and Security
+##Presentation topic:  Data and Security
+
+## <p align="center">***✨ Team member ***</p>
+## <p align="center">![Mahfuz](https://github.com/MD-MahfuzSarker)</p>
+## <p align="center">![Farzana](https://github.com/farzanaahmedlabonno2-eng)</p>
+## <p align="center">![Anisha](https://github.com/anishachy)</p>
 
 
-Team member 
-![Mahfuz](https://github.com/MD-MahfuzSarker)
-![Farzana](https://github.com/farzanaahmedlabonno2-eng)
-![Anisha](https://github.com/anishachy)
+
 
