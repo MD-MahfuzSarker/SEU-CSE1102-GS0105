@@ -12,9 +12,9 @@ This repository contains presentation materials, reports and resources for **SEU
 
 
 ### Instructors
-| Name | Role |
-|------|------|
-| Tashreef Muhammad | Course Instructor |
+| Name | Role | GitHub |
+|------|------|--------|
+| Tashreef Muhammad | Course Instructor | [Tashreef Muhammad](https://github.com/TashreefMuhammad) |
 
 ---
 
