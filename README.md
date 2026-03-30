@@ -1,7 +1,7 @@
 ## <p align="center"> SEU-CSE1102-GS0105 </p> 
 
-## <p align="center">*** Presentation topic ***</p>
-## <p align="center">*** Data and Security ***</p>
+## <p align="center">Presentation topic: "Data and Security"</p>
+
 
 
 ## <p align="center">***✨ Team member ***</p>
