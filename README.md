@@ -1,6 +1,8 @@
 ## <p align="center"> SEU-CSE1102-GS0105 </p> 
 
-##Presentation topic:  Data and Security
+## <p align="center">*** Presentation topic ***</p>
+## <p align="center">*** Data and Security ***</p>
+
 
 ## <p align="center">***✨ Team member ***</p>
 ## <p align="center">![Mahfuz](https://github.com/MD-MahfuzSarker)</p>
