@@ -29,3 +29,70 @@ This repository contains presentation materials, reports and resources for **SEU
 
 
 ---
+
+
+## 🎨 Topic Overview: Data & Security
+
+
+### Key Areas of Focus:
+
+
+### Objectives:
+
+
+
+
+---
+
+### Project Workflow
+
+---
+
+## 🤖 AI Tools & Resources Used
+
+| Tool | Purpose | Link |
+|------|---------|------|
+| ChatGPT / Claude | Content Research & Writing | [OpenAI](https://openai.com) / [Anthropic](https://anthropic.com) |
+| Gemini Pro | Content Research & Writing | [Gemini](https://gemini.google.com/) |
+| Grammarly | Content Editing & Proofreading | [Grammarly](https://grammarly.com) |
+| Canva Pro | Design & Visual Creation | [Canva](https://canva.com) |
+| GitHub Copilot Pro | Solving Error | [GitHub Copilot](https://github.com/copilot) |
+| GitHub | Version Control & Collaboration | [GitHub](https://github.com) 
+
+
+
+
+## 🔹 AI Usage Table
+
+| Tool Used | Purpose | Example Prompt (Short) | Output Used | Modification Done | Verification Method | Who Used It |
+|------|---------|------|------|---------|------|---------|
+
+
+---
+
+
+## 📈 Spreadsheet Explanation
+
+Mintain a project tracking spreadsheet that includes:
+
+- **Timeline:** Milestones and deadlines
+- **Task Distribution:** Who's responsible for what
+- **Progress Tracking:** Completion status of each component
+- **Resource Management:** Links to all materials
+
+📌 [View Project Spreadsheet](link-to-spreadsheet) *(To be added)*
+
+
+---
+
+
+## 📊 Contribution of Each Member
+| Member | Responsibility | Status |
+|--------|-----------------|--------|
+| MD. MAHFUZ SARKER MAHI | Not Assigned | In Progress |
+| FARZANA AHMED | Not Assigned | In Progress |
+| TASPRIA CHOWDHURY ANISHA | Not Assigned | In Progress |
+
+
+---
+
