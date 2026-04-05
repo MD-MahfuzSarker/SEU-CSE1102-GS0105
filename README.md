@@ -87,11 +87,11 @@ Mintain a project tracking spreadsheet that includes:
 
 
 ## 📊 Contribution of Each Member
-| Member | Responsibility | Status |
+| Member | Responsibility | Contribution |
 |--------|-----------------|--------|
-| MD. MAHFUZ SARKER MAHI | Not Assigned | In Progress |
-| FARZANA AHMED | Not Assigned | In Progress |
-| TASPRIA CHOWDHURY ANISHA | Not Assigned | In Progress |
+| MD. MAHFUZ SARKER MAHI | Not Assigned | Explaining |
+| FARZANA AHMED | Not Assigned | Explaining |
+| TASPRIA CHOWDHURY ANISHA | Not Assigned | Explaining |
 
 
 ---
