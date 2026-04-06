@@ -1,10 +1,11 @@
-# 📚 SEU-CSE1102-GS0105
-
+# SEU — Computer Fundamentals Lab
+### Department of Computer Science & Engineering
+### Southeast University
 > Course Code: **CSE1102.1** | Group No: **S0105** | Presentation Topic: **Data & Security**
 
 ---
 
-## 📖 Overview
+##  Overview of Repository
 
 This repository contains presentation materials, reports and resources for **SEU-CSE1102-GS0105**. It serves as a central hub for group and instructors to collaborate, share knowledge, and track progress throughout the semester.
 
@@ -12,26 +13,26 @@ This repository contains presentation materials, reports and resources for **SEU
 
 
 ### Instructors
-| Name | Role | GitHub |
-|------|------|--------|
-| Tashreef Muhammad | Course Instructor | [Tashreef Muhammad](https://github.com/TashreefMuhammad) |
+| Name |
+|------|
+|[Tashreef Muhammad](https://github.com/TashreefMuhammad), Lecturer, Dept. of CSE |
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 ### Students (Group S0105)
-| # | Name | GitHub |
-|---|------|--------|
-| 1 | MD. MAHFUZ SARKER MAHI | [Mahfuz](https://github.com/MD-MahfuzSarker) |
-| 2 | FARZANA AHMED | [Farzana](https://github.com/farzanaahmedlabonno2-eng) |
-| 3 | TASPRIA CHOWDHURY ANISHA | [Anisha](https://github.com/anishachy) |
+| Name |
+|------|
+| [MD. MAHFUZ SARKER MAHI](https://github.com/MD-MahfuzSarker) |
+| [FARZANA AHMED](https://github.com/farzanaahmedlabonno2-eng) |
+| [TASPRIA CHOWDHURY ANISHA](https://github.com/anishachy) |
 
 
 ---
 
 
-## 🎨 Topic Overview: Data & Security
+##  Topic Overview: Data & Security
 
 
 ### Key Areas of Focus:
@@ -45,10 +46,31 @@ This repository contains presentation materials, reports and resources for **SEU
 ---
 
 ### Project Workflow
-
+```
+SEU-SEU-CSE1102-GS0105/
+│
+├── excel/
+│   ├── 00000/          ← 000000000
+│   ├── 00000/          ← 000000000
+│   └── README.md
+│
+├── images/
+│   ├── 00000/          ← 000000000
+│   ├── 00000/         ← 000000000
+│   └── README.md
+│
+├── report/
+│   ├──00000/         ← 000000000
+│   ├── 00000/         ← 000000000
+│   └── README.md
+└── slides/
+    ├──00000/         ← 000000000
+    ├── 00000/         ← 000000000
+    └── README.md
+```
 ---
 
-## 🤖 AI Tools & Resources Used
+##  AI Tools & Resources Used
 
 | Tool | Purpose | Link |
 |------|---------|------|
@@ -62,7 +84,7 @@ This repository contains presentation materials, reports and resources for **SEU
 
 
 
-## 🔹 AI Usage Table
+##  AI Usage Table
 
 | Tool Used | Purpose | Example Prompt (Short) | Output Used | Modification Done | Verification Method | Who Used It |
 |------|---------|------|------|---------|------|---------|
@@ -71,7 +93,7 @@ This repository contains presentation materials, reports and resources for **SEU
 ---
 
 
-## 📈 Spreadsheet Explanation
+##  Spreadsheet Explanation
 
 Mintain a project tracking spreadsheet that includes:
 
@@ -80,13 +102,13 @@ Mintain a project tracking spreadsheet that includes:
 - **Progress Tracking:** Completion status of each component
 - **Resource Management:** Links to all materials
 
-📌 [View Project Spreadsheet](link-to-spreadsheet) *(To be added)*
+ [View Project Spreadsheet](link-to-spreadsheet) *(To be added)*
 
 
 ---
 
 
-## 📊 Contribution of Each Member
+## Contribution of Each Member
 | Member | Responsibility | Status |
 |--------|-----------------|--------|
 | MD. MAHFUZ SARKER MAHI | Not Assigned | In Progress  |
