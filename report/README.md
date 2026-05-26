@@ -16,12 +16,12 @@ SEU-CSE1102-GS0105/
     ├── Title Page
     ├── Introduction
     ├── Main Discussion
-    ├──Increase of Data Usage and Lack of Data Security 
+    ├── Increase of Data Usage and Lack of Data Security 
     ├── Data Table and Chart
-    ├──Explanation of the Chart
-    ├──AI Usage Table 
-    ├──Team Member Contribution
-    ├──Conclusion
+    ├── Explanation of the Chart
+    ├── AI Usage Table 
+    ├── Team Member Contribution
+    ├── Conclusion
     └── References 
 ```
 
