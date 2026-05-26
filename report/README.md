@@ -7,8 +7,9 @@ Document comprehensive research and findings on Data & Security.
 - **Final Report Document** - Complete academic paper
 - **Research Notes** - Supporting materials and citations
 - **Drafts** - Version history of report development
+
+##Structure
 ```
-Structure
 SEU-CSE1102-GS0105/
 ├── README.md (Main)
 ├── report/
