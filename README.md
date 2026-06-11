@@ -89,23 +89,18 @@ Every concept in this exploration reflects a real challenge faced by individuals
 ```
 SEU-SEU-CSE1102-GS0105/
 │
-├── excel/
-│   ├── 00000/          ← 000000000
-│   ├── 00000/          ← 000000000
-│   └── README.md
+├── README.md/                                 ← Details of Reposotpry
 │
-├── images/
-│   ├── 00000/          ← 000000000
-│   ├── 00000/         ← 000000000
+├── excel/
+│   ├── Excel_SEU-CSE1102_GS0105.xlsx/         ← Excel File (Data Analysis)
 │   └── README.md
 │
 ├── report/
-│   ├──00000/         ← 000000000
-│   ├── 00000/         ← 000000000
+│   ├── Repoty_SEU-CSE1102_GS0105.pdf/         ← Report (Documentation on Data & Security)
 │   └── README.md
+│
 └── slides/
-    ├──00000/         ← 000000000
-    ├── 00000/         ← 000000000
+    ├── Slide_SEU-CSE1102_GS0105.pptx/         ← Slide (Presentation Slide)
     └── README.md
 ```
 ---
@@ -131,7 +126,7 @@ SEU-SEU-CSE1102-GS0105/
 |---------|---------|------|------|---------|------|---------|
 |Chat GPT|Understanding concept|What is Data & Security?|Used for explanation|Simplified & rewritten|Checked with website|2026000000004|
 |Gemini|Finding sub topic|Give some topic of Data & Security, Make a diagram of Data & Security|Used for presention topic and report making topic|Simplified & rewritten|Checked with website|2026000000007|
-|Claude|opic explanation and data collection|Details explanation of specific topic|Used in report making and excel sheet|Simplified & rewritten|Checked with website|2026000000017|
+|Claude|Topic explanation and Data collection|Details explanation of specific topic|Used in report making and excel sheet|Simplified & rewritten|Checked with website|2026000000017|
 |Github Copilot Pro|Solve repository, readme file error|Help me to solve readme file issue like table making and organising readme file structure|Used in github repository|Simplified & rewritten|Checked with website|2026000000004|
 
 
@@ -154,9 +149,9 @@ Mintain a project tracking spreadsheet that includes:
 ## Contribution of Each Member
 | Member | Responsibility | Status |
 |--------|-----------------|--------|
-| MD. MAHFUZ SARKER MAHI | Not Assigned | In Progress  |
-| FARZANA AHMED | Not Assigned | In Progress  |
-| TASPRIA CHOWDHURY ANISHA | Not Assigned | In Progress  |
+| MD. MAHFUZ SARKER MAHI |  Editing & Formation | Complete |
+| FARZANA AHMED |  Gather Information & Diagram Making | Complete  |
+| TASPRIA CHOWDHURY ANISHA | Topic Overview & Overview of Repository | Complete  |
 
 
 ---
