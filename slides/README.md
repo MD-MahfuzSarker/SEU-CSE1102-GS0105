@@ -1,4 +1,4 @@
-# Slides - Presentation & Group Delivery
+# Slides 
 
 ##  Objective
 This folder contains the complete presentation slides for the **Data & Security** . The slides are designed to engage the audience, communicate complex security concepts clearly and deliver a professional group presentation during the CSE1102 Computer Fundamentals Lab course.
@@ -11,8 +11,7 @@ This folder contains the complete presentation slides for the **Data & Security*
 ## Structure
 ```
 SEU-CSE1102-GS0105/
-├── README.md (Main)
-├── slides/
+└── slides/
     ├── Title Page
     ├── Introduction
     ├── Main Discussion
