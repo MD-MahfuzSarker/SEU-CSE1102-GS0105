@@ -84,11 +84,11 @@ Every concept in this exploration reflects a real challenge faced by individuals
 
 ---
 
-### Project Workflow
+### Repository Structure
 ```
 SEU-SEU-CSE1102-GS0105/
 │
-├── README.md/                                 ← Details of Reposotpry
+├── README.md/                                 ← Details of Repositpry
 │
 ├── excel/
 │   ├── Excel_SEU-CSE1102_GS0105.xlsx/         ← Excel File (Data Analysis)
