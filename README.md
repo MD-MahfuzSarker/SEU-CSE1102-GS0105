@@ -1,5 +1,5 @@
-# SEU — Computer Fundamentals Lab
-### Department of Computer Science & Engineering
+# Computer Fundamentals Lab
+## Department of Computer Science & Engineering
 ### Southeast University
 > Course Code: **CSE1102.1** | Group No: **S0105** | Presentation Topic: **Data & Security**
 
