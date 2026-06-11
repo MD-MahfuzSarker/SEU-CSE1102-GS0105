@@ -139,7 +139,7 @@ Mintain a project tracking spreadsheet that includes:
 - **Task Distribution:** Who's responsible for what
 - **Progress Tracking:** Completion status of each component
 
- [View Project Spreadsheet](https://docs.google.com/spreadsheets/d/1Z0YDDmuQPZRREZGcUqbn3hGRlsj3wVrI_JPOlCpdDQ8/edit?usp=sharing)
+ [Spreadsheet](https://docs.google.com/spreadsheets/d/1Z0YDDmuQPZRREZGcUqbn3hGRlsj3wVrI_JPOlCpdDQ8/edit?usp=sharing)
 
 
 ---
