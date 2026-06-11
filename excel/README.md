@@ -13,7 +13,8 @@ This folder contains all spreadsheet files and data analysis related to the **Da
 ```
 SEU-CSE1102-GS0105/
 └── excel/
-    └── Data Analysis 
+    ├── Data Analysis
+    └── Graph 
 ```
 
 
