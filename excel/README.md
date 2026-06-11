@@ -23,9 +23,7 @@ SEU-CSE1102-GS0105/
 - **Phishing Attacks:** Trends, impact and prevention methods.
 - **Malware Threats:** Types, distribution and mitigation strategies.
 - **Ransomware Incidents:** Historical data and recovery statistics.
-- **Data Usage Growth:** Correlation between data growth and security gaps.
-- **CIA Triad Implementation:** Confidentiality, Integrity and Availability metrics.
-- **Authentication Methods:** Effectiveness rates and adoption statistics.
+
 
 
 
