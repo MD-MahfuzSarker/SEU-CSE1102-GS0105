@@ -11,7 +11,6 @@ Document comprehensive research and findings on Data & Security, covering core c
 ## Structure
 ```
 SEU-CSE1102-GS0105/
-├── README.md (Main)
 ├── report/
     ├── Title Page
     ├── Introduction
