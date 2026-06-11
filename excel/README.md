@@ -1,7 +1,7 @@
 # Excel
 
 ##  Objective
-This folder contains all spreadsheet files and data analysis related to the **Data & Security** assignment. It serves as the central hub for organizing project data, tracking progress and maintaining comprehensive statistics on cyber security threats and data usage patterns.
+This folder contains all spreadsheet files and data analysis related to the **Data & Security** assignment. It serves as the central hub for organizing project data and maintaining comprehensive statistics on cyber security threats and data usage patterns.
 
 
 ## Contents
