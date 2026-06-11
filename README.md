@@ -13,7 +13,7 @@ The repository is organized to reflect our group's research process, task distri
 ---
 
 
-## Instructors
+## Instructor
 
 ### [Tashreef Muhammad](https://github.com/TashreefMuhammad), Lecturer, Dept. of CSE 
 
