@@ -104,7 +104,7 @@ SEU-SEU-CSE1102-GS0105/
 ```
 ---
 
-##  AI Tools & Resources Used
+##  AI Tools Used
 
 | Tool | Purpose | Link |
 |------|---------|------|
